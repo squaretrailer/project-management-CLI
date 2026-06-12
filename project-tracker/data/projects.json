@@ -1,0 +1,11 @@
+[
+  {
+    "id": 1,
+    "title": "My First Project",
+    "description": "Learning the CLI tool",
+    "due_date": "",
+    "owner_id": 1,
+    "task_ids": [],
+    "created_at": "2026-06-12T10:35:36"
+  }
+]
